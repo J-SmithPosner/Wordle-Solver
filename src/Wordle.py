@@ -1,7 +1,7 @@
 import re
 
 FiveLetterArray = []
-with open('Words.txt', 'r') as file:
+with open('docs/Words.txt', 'r') as file:
     FiveLetterArray = [line.rstrip() for line in file]
 
 
