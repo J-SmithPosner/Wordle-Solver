@@ -5,7 +5,7 @@ A command-line helper for solving Wordle puzzles, written in Python. Enter each 
 This project was made in 2022 without the use of any AI or code generation tools. 
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Wordle solver running in a terminal" width="500">
+  <img src="docs/screenshot.png" alt="Wordle solver running in a terminal" width="800">
 </p>
 
 ## Features
